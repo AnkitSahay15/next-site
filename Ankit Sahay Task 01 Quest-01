@@ -1,0 +1,6 @@
+na=input("Enter Name")
+b= input ("Branch")
+g= input ("Gender")
+c=input("College")
+a=input("Age")
+print('na\nb\ng\nc\na')
